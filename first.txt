@@ -5,3 +5,6 @@ Demo project
 
 Updated first.txt from github website editor mimicing as some other team mate has done it.
 
+These changes are performed for smart_git demo.
+
+
