@@ -1,3 +1,6 @@
 This is a new file created for the purpose of smart_git demo.
 
 Changing online for smartgit_demo
+
+Another change online.
+
